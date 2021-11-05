@@ -19,7 +19,7 @@ function App() {
       <link rel="stylesheet" href="css/rain.css" />
       <link rel="stylesheet" href="css/main.css" />
       <div className="content-main">
-        <h1>.\run.sh</h1>
+        <h1>devan</h1>
         <br />
         <p>
           {" "}
