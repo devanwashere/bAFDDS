@@ -23,36 +23,37 @@ function App() {
         <br />
         <p>
           {" "}
-          Hi, I'm Ignacio, a 13-year-old developer who likes anime and code
-          stuff
+          hi, im devan.
+          im a rec room youtuber, developer and anime enjoyer
         </p>
         <br />
         <div className={classes.root}>
           <Button
             variant="contained"
             color="secondary"
-            href="https://discord.com/users/888960947438370837"
+            href="https://discord.com/users/544912517877727242"
           >
             Discord
           </Button>
           <Button
             variant="contained"
             color="primary"
-            href="https://e.rip/dolor"
+            href="https://devan.cool"
           >
-            Bio
+            Site
           </Button>
           <Button
             variant="contained"
             color="secondary"
-            href="https://steamcommunity.com/id/nulIed"
+            href="https://open.spotify.com/playlist/4QGddkUoBsY0C9S18m5xmu"
           >
-            Steam
+            Spotify Playlist
           </Button>
         </div>
       </div>
-      <p />
+      <p/>
     </div>
+// yes ik this is skidded from igna but i got permission, https://2b2t.bar/wow.png
   );
 }
 
