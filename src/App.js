@@ -45,9 +45,9 @@ function App() {
           <Button
             variant="contained"
             color="secondary"
-            href="https://open.spotify.com/playlist/4QGddkUoBsY0C9S18m5xmu"
+            href="https://rec.net/user/devanwiththetshirt"
           >
-            Spotify Playlist
+            rec.net
           </Button>
         </div>
       </div>
