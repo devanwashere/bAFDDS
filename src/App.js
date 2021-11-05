@@ -19,7 +19,7 @@ function App() {
       <link rel="stylesheet" href="css/rain.css" />
       <link rel="stylesheet" href="css/main.css" />
       <div className="content-main">
-        <h1>root@2b2t.bar</h1> // yes ik this is skidded from igna but i got permission, https://2b2t.bar/wow.png
+        <h1>.\run.sh</h1>
         <br />
         <p>
           {" "}
